@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Varela Round", sans-serif;
+  background-color: #eeeee2;
+  
+}
+
+.form {
+  background-image: linear-gradient(#e3e6dd, #d4d3c6);
+  position: absolute;
+  text-align: center;
+  border-radius: 16px;
+  padding: 120px 50px;
+  padding: 20%;
+  
+}
+
+.photo{
+  margin: 20px;
+  border-radius: 10%;
+  width: 500px;
+  box-shadow: 2px 2px 33px #000000ab;
+}
+
+.name_baner{
+  font-size: 2rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.vision{
+  font-size: 1.8rem;
+  margin: 20px;
+}
+
+.interst_block{
+text-align: left;
+cursor:pointer;
+}
+
+.deep_into{
+  margin-top: 20px;
+  text-align: left;
+cursor:pointer;
+}
+
+.key_skills{
+  text-align: left;
+  margin-top: 20px;
+}
+
+.milestones_block{
+  text-align: left;
+  margin-top: 20px;
+}
+
+.milestones_block h2{
+  margin: 10px;
+}
+
+
+.milestones_block h3{
+  margin: 10px;}
+
+.respons{
+  margin-top: 20px;
+  font-size: 1rem;
+}
+
+.milestones_block ul{
+  padding: 20px;
+}
+
+.proc_scratch{
+  padding: 3px;
+}
